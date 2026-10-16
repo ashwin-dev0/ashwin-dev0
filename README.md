@@ -2,12 +2,14 @@
 
 # Hi, I'm Ashwin G S 👋
 
-### Software Developer | React & TypeScript | Python & AI
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+Developer;React+%26+TypeScript+Developer;Building+AI-Powered+Applications;Learning+%7C+Building+%7C+Improving" alt="Animated developer introduction" />
 
-Building modern web applications, intelligent systems, and practical digital products.
+**Software Developer · Frontend Engineering · AI Applications**
+
+Building modern web experiences and practical AI-powered systems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ashwin--dev0-181717?style=flat-square&logo=github)](https://github.com/ashwin-dev0)
-[![Live Project](https://img.shields.io/badge/Live-LexiVoice-blue?style=flat-square&logo=vercel)](https://lexivoice-six.vercel.app/)
+[![LexiVoice](https://img.shields.io/badge/Live%20Demo-LexiVoice-0A66C2?style=flat-square&logo=vercel)](https://lexivoice-six.vercel.app/)
 
 </div>
 
@@ -15,72 +17,58 @@ Building modern web applications, intelligent systems, and practical digital pro
 
 ## 👨‍💻 About Me
 
-I'm a software developer focused on building responsive, scalable web applications and exploring AI-powered solutions.
+I'm a software developer focused on **React, Next.js, and TypeScript**, with a growing interest in **Python backends, AI, and retrieval-augmented generation (RAG)**.
 
-- ⚛️ Frontend development with React, Next.js, TypeScript, and Tailwind CSS
-- 🐍 Backend development with Python, FastAPI, and PostgreSQL
-- 🤖 Exploring RAG, LLMs, document intelligence, and local AI inference
-- ☁️ Working with Azure, Linux, and application deployment
-- 🚀 Passionate about solving real-world problems through software
+- ⚛️ Building responsive applications with React, TypeScript, and Tailwind CSS
+- 🐍 Working with Python, FastAPI, and PostgreSQL
+- 🤖 Exploring document intelligence, embeddings, Ollama, and local LLM workflows
+- ☁️ Learning more about Azure, Linux deployment, and application reliability
+- 🎯 Interested in frontend, full-stack, and applied AI engineering
 
 ## 🛠️ Tech Stack
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite)
+![Frontend technologies](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite)
 
-**Backend & Database**
+**Backend & Data**
 
-![Backend](https://skillicons.dev/icons?i=python,fastapi,postgres)
+![Backend technologies](https://skillicons.dev/icons?i=python,fastapi,postgres)
 
-**Tools & Deployment**
+**Developer Tools & Deployment**
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,azure,linux,docker,vercel)
+![Developer tools](https://skillicons.dev/icons?i=git,github,vscode,azure,linux,docker,vercel)
 
 ## 🚀 Featured Projects
 
-### 💰 [KshemaNidhi](https://github.com/ashwin-dev0/KshemaNidhi)
-A responsive family-fund management application for tracking contributions, loans, repayments, and member records.
+| Project | Overview | Technologies |
+| :--- | :--- | :--- |
+| [**KshemaNidhi**](https://github.com/ashwin-dev0/KshemaNidhi) | Responsive family-fund management UI for contributions, loans, repayments, and members. | React · TypeScript · Vite · Tailwind CSS |
+| [**LexiVoice**](https://github.com/ashwin-dev0/Lexivoice) | Voice-first vocabulary learning app with text input as a fallback. [Try it live ↗](https://lexivoice-six.vercel.app/) | React · TypeScript · Vite |
+| [**Multi-Format RAG**](https://github.com/ashwin-dev0/RAG) | Document ingestion and retrieval-augmented generation with local inference and security checks. | Python · Ollama · Embeddings · RAG |
+| [**EAIL**](https://github.com/ashwin-dev0/EAIL) | Enterprise AI backend with authenticated APIs, access policies, and document workflows. | Python · FastAPI · AI · RAG |
 
-**Tech:** React, TypeScript, Vite, Tailwind CSS
-
-### 🎙️ [LexiVoice](https://github.com/ashwin-dev0/Lexivoice)
-A voice-first vocabulary learning application with browser speech recognition and text-input fallback.
-
-**Tech:** React, TypeScript, Vite
-
-🌐 [Live Demo](https://lexivoice-six.vercel.app/)
-
-### 🧠 [Multi-Format RAG](https://github.com/ashwin-dev0/RAG)
-A document retrieval-augmented generation system with multi-format ingestion, semantic retrieval, local inference, and security controls.
-
-**Tech:** Python, Ollama, Embeddings, RAG
-
-### 🏢 [Enterprise Agentic Intelligence Layer](https://github.com/ashwin-dev0/EAIL)
-An enterprise AI backend with authenticated APIs, access controls, document workflows, and agentic intelligence capabilities.
-
-**Tech:** Python, FastAPI, AI, RAG
-
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwin-dev0&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin-dev0&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ashwin-dev0&show_icons=true&hide_border=true&theme=github_dark" alt="Ashwin's GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin-dev0&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" height="165" />
 
 </div>
 
-## 🤝 Connect With Me
+> GitHub statistics are provided by a third-party service and may occasionally be unavailable.
 
-Interested in frontend engineering, full-stack development, and practical AI applications.
+## 🤝 Let's Connect
 
-[Explore My Repositories →](https://github.com/ashwin-dev0?tab=repositories)
+I'm interested in building useful software and collaborating on **frontend, full-stack, and AI applications**.
+
+[**Explore my repositories →**](https://github.com/ashwin-dev0?tab=repositories)
 
 ---
 
 <div align="center">
 
-**Keep learning. Keep building. Keep improving.**
+<sub>Keep learning. Keep building. Keep improving.</sub>
 
 </div>

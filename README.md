@@ -196,14 +196,3 @@ I'm interested in opportunities involving:
 *Always learning. Always building.*
 
 </div>
-
-
-**[Explore my GitHub repositories →](https://github.com/ashwin-dev0?tab=repositories)**
-
----
-
-<div align="center">
-
-<sub>Always learning. Always building.</sub>
-
-</div>
